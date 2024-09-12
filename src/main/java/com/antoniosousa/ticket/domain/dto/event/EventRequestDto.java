@@ -1,6 +1,5 @@
-package com.antoniosousa.ticket.domain.dto;
+package com.antoniosousa.ticket.domain.dto.event;
 
-import com.antoniosousa.ticket.domain.enums.EventStatus;
 import com.antoniosousa.ticket.domain.model.EventAddress;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;

@@ -1,6 +1,6 @@
 package com.antoniosousa.ticket.domain.service;
 
-import com.antoniosousa.ticket.domain.dto.ViaCepResponseDto;
+import com.antoniosousa.ticket.domain.dto.cep.ViaCepResponseDto;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.util.UriComponentsBuilder;

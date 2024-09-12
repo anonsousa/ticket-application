@@ -1,7 +1,7 @@
 package com.antoniosousa.ticket.controller;
 
 
-import com.antoniosousa.ticket.domain.dto.ViaCepResponseDto;
+import com.antoniosousa.ticket.domain.dto.cep.ViaCepResponseDto;
 import com.antoniosousa.ticket.domain.service.CepService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

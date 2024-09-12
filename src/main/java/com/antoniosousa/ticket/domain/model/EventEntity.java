@@ -39,21 +39,14 @@ public class EventEntity {
     private LocalDateTime eventEndDate;
 
     private BigDecimal price;
-
     private int capacity;
-
     private int ticketsAvailable;
-
     private int ticketsSubmitted;
-
-
     private String eventLogo;
-
     private boolean ownParking;
 
     @Enumerated(EnumType.STRING)
     private EventStatus eventStatus;
-
 
 }
 

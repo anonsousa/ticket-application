@@ -1,7 +1,7 @@
 package com.antoniosousa.ticket.domain.mapper;
 
-import com.antoniosousa.ticket.domain.dto.EventRequestDto;
-import com.antoniosousa.ticket.domain.dto.EventResponseDto;
+import com.antoniosousa.ticket.domain.dto.event.EventRequestDto;
+import com.antoniosousa.ticket.domain.dto.event.EventResponseDto;
 import com.antoniosousa.ticket.domain.model.EventEntity;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

@@ -1,4 +1,4 @@
-package com.antoniosousa.ticket.domain.dto;
+package com.antoniosousa.ticket.domain.dto.cep;
 
 import lombok.Data;
 
